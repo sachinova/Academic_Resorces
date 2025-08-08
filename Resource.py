@@ -7,4 +7,4 @@ st.markdown("### Welcome to the valley of Academic Treasure")
 
 st.markdown("<br><br><br>", unsafe_allow_html=True)
 
-st.markdown("##### Coming Soooooooooon")
+st.markdown("# Coming Soooooooooon")
